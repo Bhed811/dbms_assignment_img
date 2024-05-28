@@ -59,7 +59,7 @@ INSERT INTO writee (author_id, book_id) VALUES
 
 INSERT INTO borrow (student_id, book_id, checkout_time, return_time) VALUES
 (1, 1, 1621468800, 1622159999),
-(1, 2, 1621468800, 1622159999),
+(1, 2, 1621467800, 1622159999),
 (2, 1, 1621468800, 1622159999),
 (3, 3, 1621468800, 1622159999);
 
